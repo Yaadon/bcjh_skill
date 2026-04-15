@@ -1,0 +1,9 @@
+.qoder
+__pycache__
+scripts/.bcjh_browser_profile
+scripts/.bcjh_game_data.json
+scripts/.bcjh_user_cache.json
+.DS_Store
+h5.baochaojianghu.com
+.vscode
+*.bak
