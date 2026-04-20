@@ -3,7 +3,11 @@ __pycache__
 scripts/.bcjh_browser_profile
 scripts/.bcjh_game_data.json
 scripts/.bcjh_user_cache.json
+scripts/.bcjh_user_caches/
 .DS_Store
 h5.baochaojianghu.com
+i.baochaojianghu.com
+foodgame.github.io
+foodgamere.github.io
 .vscode
 *.bak
